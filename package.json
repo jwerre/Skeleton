@@ -1,0 +1,22 @@
+{
+  "name": "skeleton-stylus",
+  "version": "0.0.1",
+  "description": "Skeleton-Stylus is an (un)official Stylus version of Dave Gamache's Skeleton Framework.",
+  "main": "index.js",
+  "scripts": {
+    "install": "stylus -o ./css ./stylus/skeleton.styl"
+  },
+  "keywords": [
+    "skeleton",
+    "stylus",
+    "css",
+    "responsive",
+    "boilerplate",
+    "grid",
+    "buttons",
+    "typography",
+    "forms"
+  ],
+  "author": "Jonah Werre <jonahwerre@gmail.com>",
+  "license": "MIT"
+}
